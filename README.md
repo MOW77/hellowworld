@@ -1,2 +1,3 @@
 # hellowworld
-simple exercise
+HI!CHINA.
+THIS IS MY EXERCIESE.
